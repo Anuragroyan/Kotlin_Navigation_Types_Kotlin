@@ -1,9 +1,32 @@
-![Screenshot_20240416_233705](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/06e2593a-9b9e-4ac6-a42d-c5d612529d7b)
-![Screenshot_20240416_233714](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/5141dc98-0616-4d45-89d9-9e1b0a3627fe)
-![Screenshot_20240416_233726](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/78122fd5-85d3-4698-a5e6-05e16c5a0eba)
-![Screenshot_20240416_233736](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/7e965061-78de-46d5-b539-4f94cc4d046a)
-![Screenshot_20240416_233746](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/da8adcbd-ebc7-4fa7-839d-96ef06895399)
-![Screenshot_20240416_233754](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/b7aac9ef-839f-4abe-8d9f-cc6f7994bca7)
-![Screenshot_20240416_233800](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/c05a41c3-e07d-4b66-b847-963b7d7ce275)
-![Screenshot_20240416_233809](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/cfce1468-e9f8-4384-8d9a-af67b6e4fe17)
-![Screenshot_20240416_233915](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/770efdaa-b3ab-4bcf-b5eb-a6039adad27f)
+🧭 Android Navigation Demo
+Android Navigation Demo is a Kotlin-based Android application created to demonstrate commonly used navigation patterns and UI components in Android development. The project provides practical examples of how different navigation approaches can be implemented and combined to create a structured and user-friendly application.
+
+The app demonstrates Top Bar, Sidebar/Navigation Drawer, Bottom Navigation, and Modal Sheet patterns, allowing developers to understand their purpose, behavior, and interaction within an Android application.
+
+✨ Features
+* 🧭 Navigation – Demonstrate navigation between different screens.
+* 🔝 Top Bar – Implement a top app bar for screen actions and navigation.
+* 📑 Sidebar – Demonstrate a sidebar/navigation drawer for accessing app sections.
+* 🔽 Bottom Navigation – Switch between primary sections of the application.
+* 📋 Modal Sheet – Display additional content or actions using a modal sheet.
+* 🔄 Screen Switching – Navigate between different UI destinations.
+* 👆 Interactive UI – Demonstrate user interaction with navigation components.
+* 🎨 Android UI Components – Explore commonly used Android navigation patterns.
+* ☕ Kotlin Implementation – Implement the navigation logic using Kotlin.
+
+🔄 Application Flow
+<img width="1223" height="1286" alt="image14" src="https://github.com/user-attachments/assets/e82233c2-2ad9-4ca1-a9bc-21c3f2d50da2" />
+
+
+🛠️ Tech Stack
+* Kotlin
+* Android
+* Android SDK
+* Navigation Components
+* Top App Bar
+* Navigation Drawer / Sidebar
+* Bottom Navigation
+* Modal Sheet
+
+🎯 Project Purpose
+The purpose of this project is to provide a hands-on demonstration of common Android navigation patterns. It helps developers understand how Top Bars, Sidebars, Bottom Navigation, and Modal Sheets can be implemented and used to create organized and intuitive Android applications.
